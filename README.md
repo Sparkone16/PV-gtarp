@@ -1,0 +1,1 @@
+Ce programme python permet de creer un bot discord avec un base de donnée. Ce bot vous transporte au maximum dans votre Roleplay en proposant un TAJ, FRP, FNPC, SIV, FVA, FOveS. Ces systèmes permet au force de l'ordre en rp d'être facilité.
